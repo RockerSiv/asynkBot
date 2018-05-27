@@ -1,0 +1,33 @@
+#chat-area{
+    width: 300px;
+    min-height: 500px;
+    border: dotted gray 2px;
+    border-radius: 2px;
+    background: lightgray;
+    position: relative;
+
+
+}
+#user-message{
+    margin-top: 5px;
+    width: 200px;
+    border-radius: 3px;
+    background: lightblue;
+}
+#subBut{
+    background: lightcoral;
+    height: 30px;
+    width: 100px;
+}
+#user-message,#chat-area{
+    padding: 5px;
+}
+#chat-block{
+    margin: 5px;
+}
+.botName{
+    color: lightcoral;
+}
+.userName{
+    color: cadetblue;
+}
